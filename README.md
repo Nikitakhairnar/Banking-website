@@ -11,6 +11,7 @@ I have created a basic banking system to complete the task #1 which was assigned
 #### Frontend : HTML,CSS,JAVASCRIPT,BOOTSTRAP
 #### Backend : PHP
 #### Database : MySQL
+#### Server : XAMPP
 Database creation using PHPMyAdmin and localhost
 
 ### Functionalities of the website :
